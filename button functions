@@ -1,0 +1,58 @@
+<DOCTYPE! html>
+<html>
+<head>
+
+<script>
+function Kinematics()
+  {alert ("v=u+a*t")}
+	
+function Energy()
+	{alert ("123")}
+	
+function SHM()
+	{alert ("")}
+	
+function WorkAndEnergy()
+	{alert ("")}
+	
+function Momentum()
+	{alert ("")}
+	
+function Electricity()
+	{alert ("")}
+	
+function Circuits()
+	{alert ("")}
+	
+function Magnetism()
+	{alert ("")}							
+</script>
+</head>
+
+<link rel="stylesheet" type="text/css" href="button.css">
+
+<body>
+<div id="submit-button">
+
+<input class="submit-button" type="button" onclick="Kinematics()"
+value="Kinematics"/>
+
+
+<input class="submit-button" type="button" onclick="Energy()" value="Energy"/>
+
+
+<input class="submit-button" type="button" onclick="SHM()" value="Simple Harmonic Motion"/>
+
+<input class="submit-button" type="button" onclick="Momentum()" value="Momentum"/>
+
+
+<input class="submit-button" type="button" onclick="Electricity()" value="Electricity"/>
+
+
+<input class="submit-button" type="button" onclick="Circuits()" value="Circuits"/>
+
+<input class="submit-button" type="button" onclick="Magnetism()" value="Magnetism" />
+
+</div>
+</body>
+</html>
